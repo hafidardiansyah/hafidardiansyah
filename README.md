@@ -9,5 +9,3 @@ I am an IT background student, I love programming and design, my dream is to be 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafidardiansyahh)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hafidardiansyahh&show_icons=true)  
-
-//![Profile views](https://gpvc.arturio.dev/hafidardiansyahh)  
