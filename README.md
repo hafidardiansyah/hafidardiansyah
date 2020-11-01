@@ -10,4 +10,4 @@ I am an IT background student, I love programming and design, my dream is to be 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hafidardiansyahh&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/hafidardiansyahh)  
+//![Profile views](https://gpvc.arturio.dev/hafidardiansyahh)  
