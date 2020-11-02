@@ -1,6 +1,6 @@
 ### Hi there 👋, Hafid Ardiansyah
 #### Student, Full Stack Developer, UI & UX Designer
-I am an IT background student, I love programming and design, my dream is to be a Full Stack Developer and have a Start-Up
+I am an IT background student, I love programming and design, my dream is to be a Software Engineering and have a Start-Up
 
 
 
