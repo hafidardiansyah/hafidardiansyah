@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://hafidardiansyahh.github.io/](link)
+- 👨‍💻 All of my projects are available at [link](https://hafidardiansyahh.github.io)
 
 - 📫 How to reach me **hafidardiansyahh@gmail.com**
 
