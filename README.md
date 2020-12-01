@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hafid Ardiansyah</h1>
-<h3 align="center">I'm from Indonesia, i am 18 years old. For now, I live in Malang.
-                     I am a vocational high school graduates in <b>SMK Negeri 1 Kepanjen</b> with a major in software engineering. 
-                     I love make something that useful for the others like make an application mobile and i am prefer in mobile development
-                     using Flutter, and until now, i am still learning, because everyday the technologies is continues to develop.</h3>
+<h1 align="center">Hi 👋, i'm Hafid Ardiansyah</h1>
+<h3 align="center">I'm from Indonesia and for now i live in Malang. I am a vocational high school graduates in SMK Negeri 1 Kepanjen with a major in software engineering. I love make something that useful for the others like make an application mobile and i am prefer in mobile development using Flutter. Now i am still learning, because everyday the technologies is continues to develop.
+</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
