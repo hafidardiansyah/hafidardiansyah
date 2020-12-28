@@ -17,7 +17,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hafidardiansyahh&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hafidardiansyah&show_icons=true)  
 
 
 <h3 align="left">Languages and Tools:</h3>
