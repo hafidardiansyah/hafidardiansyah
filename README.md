@@ -14,7 +14,3 @@
   <a href="https://dribbble.com/hafidardiansyah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="hafidardiansyahh" height="30" width="40" /></a>
   <a href="https://instagram.com/dev.hafid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hafidardiansyahh" height="30" width="40" /></a>
 </p>
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hafidardiansyah&show_icons=true)  
