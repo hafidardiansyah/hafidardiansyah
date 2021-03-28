@@ -15,4 +15,9 @@
   <a href="https://instagram.com/dev.hafid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hafidardiansyahh" height="30" width="40" /></a>
   <a href="https://www.youtube.com/channel/UCuuAMxi7XMbIOgYyW5JE2eA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="dev hafid" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Static </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=hafidardiansyah&show_icons=true&count_private=true">
+
+<h3 align="left">Favourite Languages </h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidardiansyah&show_icons=true&count_private=true&layout=compact">
