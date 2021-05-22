@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📝 I regularly write articles on [this](https://devhafid.blogspot.com/)
+- 📝 I regularly write articles on [Blogger](https://hafidardiansyah.blogspot.com/)
 
 - 📫 How to reach me **contacthafidardiansyah@gmail.com**
 
