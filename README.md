@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hafid Ardiansyah</h1>
-<h3 align="center">I'm from Indonesia and for now i live in Malang. I am a vocational high school graduates in SMK Negeri 1 Kepanjen with a major in software engineering. I love make something that useful for the others like make an application mobile and i am prefer in mobile development using Flutter. Now i am still learning, because everyday the technologies is continues to develop.
+<h3 align="center">I am from Indonesia. I am a graduate of SMK Negeri 1 Kepanjen with a major in software engineering. I like to make something useful for other people like building mobile apps, love to study, love sports and I prefer to be in mobile development using Flutter. Now I am still learning, because every day technology continues to develop.
 </h3>
 
 - 🌱 I’m currently learning **Flutter**
