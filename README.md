@@ -4,14 +4,14 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📝 I regularly write articles on [Blogger](https://hafidardiansyah.blogspot.com/)
+- 📝 I regularly write articles on [Blogger](https://hafidardiansyahh.blogspot.com/)
 
-- 📫 How to reach me **contacthafidardiansyah@gmail.com**
+- 📫 How to reach me **hafidardiansyahh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/hafidardiansyahh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hafidardiansyahh" height="30" width="40" /></a>
-<a href="https://dribbble.com/hafidardiansyah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="hafidardiansyah" height="30" width="40" /></a>
+<a href="https://instagram.com/hafidardiansyahh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hafidardiansyahh" height="30" width="40" /></a>
+<a href="https://dribbble.com/hafidardiansyahh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="hafidardiansyah" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCuuAMxi7XMbIOgYyW5JE2eA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="dev hafid" height="30" width="40" /></a>
 </p>
 
