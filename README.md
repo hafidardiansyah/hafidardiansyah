@@ -15,6 +15,6 @@
 <a href="https://www.youtube.com/channel/UCuuAMxi7XMbIOgYyW5JE2eA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="dev hafid" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafidardiansyah&show_icons=true&locale=en&layout=compact" alt="hafidardiansyah" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafidardiansyahh&show_icons=true&locale=en&layout=compact" alt="hafidardiansyah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafidardiansyah&show_icons=true&locale=en" alt="hafidardiansyah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafidardiansyahh&show_icons=true&locale=en" alt="hafidardiansyah" /></p>
